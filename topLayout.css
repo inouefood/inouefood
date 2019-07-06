@@ -39,12 +39,14 @@ display: block;
 clear: both;
 }
 .natto {
+padding: 2.5%;
 float: left;
-width:50%;
+width:45%;
 text-align:right;
 }
 .ebifry {
+padding: 2.5%;
 float: left;
-width:50%;
+width:45%;
 text-align:left;
 }

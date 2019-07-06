@@ -1,3 +1,7 @@
+html {
+    height: 100%;
+}
+
 body {
   /* 画像ファイルの指定 */
   background-image: url(img/background.png);
@@ -26,11 +30,11 @@ text-align:center;
 }
 
 .empty {
-height:50%;
+height:25%;
 }
 
 .description {
-height:30%;
+height:25%;
 }
 
 .application {

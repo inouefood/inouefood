@@ -16,8 +16,35 @@ body {
    
   /* 背景画像が読み込まれる前に表示される背景のカラー */
   background-color: #464646;
+  
+  height: 100%;
 }
 p {
 color: #ffffff;
-font-size: 200%;
+font-size: 150%;
+text-align:center;
+}
+
+.empty {
+height:50%;
+}
+
+.description {
+height:30%;
+}
+
+.application {
+content: "";
+display: block;
+clear: both;
+}
+.natto {
+float: left;
+width:50%;
+text-align:right;
+}
+.ebifry {
+float: left;
+width:50%;
+text-align:left;
 }

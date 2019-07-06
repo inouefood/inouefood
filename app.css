@@ -1,5 +1,56 @@
-.appStore{
-max-width:220px;
-margin:16px auto;
-transition:opacity 0.4s;
+html {
+    height: 100%;
+    background:gray;
+}
+
+h1 {
+	font-size: 400%;
+	color:#ffffff;
+	margin:10px;
+	padding:0px;
+}
+
+h2 {
+	font-size: 150%;
+	font-weight: normal; 
+	color:#ffffff;
+	margin:0px;
+	padding:0px;
+}
+h3 {
+	font-size: 120%;
+	font-weight: lighter; 
+	color:#ffffff;
+	margin:10px;
+	padding:0px;
+}
+
+.nattoHead {
+	float:left;
+	width:50%;
+	height:100%;
+	text-align:center;
+}
+.empty {
+	height:25%;
+	width:100%;
+	float:left;
+}
+
+.nattoHead p  {
+	text-align:center;
+	color:#ffffff
+}
+.nattoHEAD img {
+	text-align:center;
+	margin:10px;
+}
+
+.appImage {
+	float:right;
+	width:50%;
+	height: 100%;
+}
+.appImage img {
+	width:90%;
 }

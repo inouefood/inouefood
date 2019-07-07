@@ -52,5 +52,23 @@ h3 {
 	height: 100%;
 }
 .appImage img {
-	width:90%;
+	width:100%;
+}
+
+.discription1 {
+	height:100%;
+	width:100%;
+}
+.description1 img {
+	height:90%;
+	width:100%;
+}
+
+.description2 {
+	height:100%;
+	width:100%;
+}
+.description2 img {
+	height:90%;
+	width:100%;
 }
